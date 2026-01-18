@@ -8,36 +8,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- Initial project setup with Astro + React
-- Dark/light mode theme switching
-- shadcn/ui component library integration
-- Tailwind CSS 4 styling
-- TypeScript configuration
-- Landing page with hero section
-- Dashboard page with stats
-- Login page with form
-- Responsive navigation
-- Toast notifications with Sonner
-- Git hooks with Husky
-- Contributing guidelines
-- Security policy
-- Code of Conduct
-- MIT License
+- GitHub issue templates (bug report, feature request)
+- Pull request template
+- GitHub Actions CI workflow
+- Welcome workflow for new contributors
+- Funding configuration
+- Repository badges and links
+- Community health files
 
 ### Changed
-- N/A
+- Updated README with repository information
+- Updated contact information across all documentation
 
-### Deprecated
-- N/A
-
-### Removed
-- N/A
-
-### Fixed
-- N/A
-
-### Security
-- N/A
+### Documentation
+- Added contributor welcome automation
+- Added CI/CD pipeline documentation
 
 ## [1.0.0] - 2025-01-18
 
@@ -102,5 +87,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-[Unreleased]: https://github.com/your-repo/astro-app/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/your-repo/astro-app/releases/tag/v1.0.0
+[Unreleased]: https://github.com/craftzcatdev/astro-react-hybrid-template/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/craftzcatdev/astro-react-hybrid-template/releases/tag/v1.0.0

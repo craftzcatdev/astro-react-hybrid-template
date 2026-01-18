@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Ask a Question
+    url: https://github.com/craftzcatdev/astro-react-hybrid-template/discussions
+    about: Ask questions and discuss with the community
+  - name: 📚 Documentation
+    url: https://github.com/craftzcatdev/astro-react-hybrid-template#readme
+    about: Read the project documentation
+  - name: 🔒 Security Issue
+    url: https://github.com/craftzcatdev/astro-react-hybrid-template/security/policy
+    about: Report a security vulnerability privately

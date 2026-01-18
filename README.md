@@ -6,6 +6,10 @@ A modern, production-ready template combining Astro's static generation with Rea
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![Astro](https://img.shields.io/badge/Astro-5.0-orange)](https://astro.build/)
 [![React](https://img.shields.io/badge/React-19.0-blue)](https://react.dev/)
+[![CI](https://github.com/craftzcatdev/astro-react-hybrid-template/workflows/CI/badge.svg)](https://github.com/craftzcatdev/astro-react-hybrid-template/actions)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/craftzcatdev/astro-react-hybrid-template/blob/main/CONTRIBUTING.md)
+
+> 🚀 **Live Demo:** [View Demo](https://astro-react-hybrid-template.vercel.app) (Coming soon)
 
 ## ✨ Features
 
@@ -71,8 +75,8 @@ astro-app/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd astro-app
+   git clone https://github.com/craftzcatdev/astro-react-hybrid-template.git
+   cd astro-react-hybrid-template
    ```
 
 2. **Install dependencies**
@@ -236,37 +240,26 @@ Output will be in `dist/` directory. Deploy to:
 
 ## 🤝 Contributing
 
-We welcome contributions! Please follow these guidelines:
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
-### Development Workflow
+### Quick Start for Contributors
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
+2. Create your feature branch: `git checkout -b feature/amazing-feature`
+3. Commit your changes: `git commit -m 'feat: add amazing feature'`
+4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-### Code Style
+### Ways to Contribute
 
-- Use TypeScript for all new files
-- Follow existing code formatting
-- Write meaningful commit messages
-- Add comments for complex logic
-- Test your changes before submitting
+- 🐛 Report bugs
+- 💡 Suggest new features
+- 📝 Improve documentation
+- 🔧 Submit pull requests
+- ⭐ Star the repository
+- 📢 Share with others
 
-### Commit Message Convention
-
-Follow [Conventional Commits](https://www.conventionalcommits.org/):
-
-```
-feat: add new feature
-fix: fix bug in component
-docs: update README
-style: format code
-refactor: restructure component
-test: add tests
-chore: update dependencies
-```
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 📄 License
 
@@ -274,7 +267,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔒 Security
 
-If you discover a security vulnerability, please email [security@example.com](mailto:security@example.com). Do not open a public issue.
+If you discover a security vulnerability, please email [hainguyenchi@craftzcatdev.blog](mailto:hainguyenchi@craftzcatdev.blog). Do not open a public issue.
 
 See [SECURITY.md](SECURITY.md) for our security policy.
 
@@ -287,9 +280,19 @@ See [SECURITY.md](SECURITY.md) for our security policy.
 
 ## 💬 Support
 
-- 📖 [Documentation](https://docs.astro.build/)
-- 💬 [Discord Community](https://astro.build/chat)
-- 🐛 [Issue Tracker](https://github.com/your-repo/issues)
+- 📖 [Documentation](https://github.com/craftzcatdev/astro-react-hybrid-template#readme)
+- 💬 [Discussions](https://github.com/craftzcatdev/astro-react-hybrid-template/discussions)
+- 🐛 [Issue Tracker](https://github.com/craftzcatdev/astro-react-hybrid-template/issues)
+- 📧 Email: [hainguyenchi@craftzcatdev.blog](mailto:hainguyenchi@craftzcatdev.blog)
+
+## ⭐ Show Your Support
+
+If you find this template helpful, please consider:
+- ⭐ Starring the repository
+- 🐛 Reporting bugs
+- 💡 Suggesting new features
+- 📢 Sharing with others
+- 💖 [Sponsoring the project](https://github.com/sponsors/craftzcatdev)
 
 ## 🙏 Acknowledgments
 
@@ -299,4 +302,6 @@ See [SECURITY.md](SECURITY.md) for our security policy.
 
 ---
 
-Made with ❤️ by the community
+**Made with ❤️ by [craftzcatdev](https://github.com/craftzcatdev)**
+
+[⬆ back to top](#astro--react-hybrid-template)

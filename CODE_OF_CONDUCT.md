@@ -60,7 +60,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[conduct@example.com](mailto:conduct@example.com).
+[hainguyenchi@craftzcatdev.blog](mailto:hainguyenchi@craftzcatdev.blog).
 
 All complaints will be reviewed and investigated promptly and fairly.
 

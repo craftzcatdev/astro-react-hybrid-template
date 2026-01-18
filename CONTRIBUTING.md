@@ -14,7 +14,7 @@ First off, thank you for considering contributing to this project! It's people l
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [conduct@example.com](mailto:conduct@example.com).
+This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [hainguyenchi@craftzcatdev.blog](mailto:hainguyenchi@craftzcatdev.blog).
 
 ### Our Pledge
 
@@ -330,8 +330,8 @@ src/
 
 Feel free to:
 - Open an issue for questions
-- Join our Discord community
-- Email us at [support@example.com](mailto:support@example.com)
+- Join our [GitHub Discussions](https://github.com/craftzcatdev/astro-react-hybrid-template/discussions)
+- Email us at [hainguyenchi@craftzcatdev.blog](mailto:hainguyenchi@craftzcatdev.blog)
 
 ## Recognition
 

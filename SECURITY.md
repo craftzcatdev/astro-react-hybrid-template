@@ -20,7 +20,7 @@ We take the security of our project seriously. If you believe you have found a s
 
 ### Please DO:
 
-1. **Email us directly** at [security@example.com](mailto:security@example.com)
+1. **Email us directly** at [hainguyenchi@craftzcatdev.blog](mailto:hainguyenchi@craftzcatdev.blog)
 2. **Include the following information:**
    - Type of issue (e.g., buffer overflow, SQL injection, cross-site scripting, etc.)
    - Full paths of source file(s) related to the manifestation of the issue
