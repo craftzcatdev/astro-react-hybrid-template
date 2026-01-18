@@ -294,6 +294,24 @@ If you find this template helpful, please consider:
 - 📢 Sharing with others
 - 💖 [Sponsoring the project](https://github.com/sponsors/craftzcatdev)
 
+### 💖 Become a Sponsor
+
+Support the development of this project:
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge&logo=github)](https://github.com/sponsors/craftzcatdev)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-☕-ff5e5b?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/craftzcatdev)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/craftzcatdev)
+
+Your sponsorship helps:
+- 🐛 Fix bugs faster
+- ✨ Add new features
+- 📚 Improve documentation
+- 💬 Provide better support
+- 🚀 Maintain the project
+
+**Current Sponsors:**
+- [Your Name Here](https://github.com/sponsors/craftzcatdev) - Be the first sponsor!
+
 ## 🙏 Acknowledgments
 
 - [Astro Team](https://astro.build/) - Amazing framework

@@ -1,7 +1,36 @@
-# These are supported funding model platforms
+# GitHub Sponsors & Funding Configuration
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
 
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-  - craftzcatdev
-patreon: # Replace with a single Patreon username
-ko_fi: # Replace with a single Ko-fi username
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+# GitHub Sponsors (up to 4 usernames)
+github: [craftzcatdev]
+
+# Patreon username
+patreon: # craftzcatdev
+
+# Ko-fi username
+ko_fi: # craftzcatdev
+
+# Open Collective username
+open_collective: # craftzcatdev
+
+# Tidelift package name (format: platform/package-name)
+tidelift: # npm/astro-react-hybrid-template
+
+# Community Bridge project name
+community_bridge: # project-name
+
+# Liberapay username
+liberapay: # craftzcatdev
+
+# IssueHunt username
+issuehunt: # craftzcatdev
+
+# Otechie username
+otechie: # craftzcatdev
+
+# LFX Crowdfunding project name
+lfx_crowdfunding: # project-name
+
+# Buy Me a Coffee username
+custom: # ['https://www.buymeacoffee.com/craftzcatdev']
+

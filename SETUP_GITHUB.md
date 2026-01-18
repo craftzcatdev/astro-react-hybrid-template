@@ -15,6 +15,20 @@ Follow these steps to set up your GitHub repository and welcome contributors.
 
 ## Step 2: Push Your Code
 
+**IMPORTANT: Run security scan first!**
+
+```bash
+# Make script executable
+chmod +x .github/scripts/security-scan.sh
+
+# Run security scan
+./.github/scripts/security-scan.sh
+
+# If scan passes, proceed with git commands
+```
+
+If security scan passes:
+
 ```bash
 # Initialize git (if not already done)
 git init
