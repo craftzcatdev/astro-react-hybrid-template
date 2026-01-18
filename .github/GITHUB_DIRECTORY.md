@@ -2,6 +2,8 @@
 
 GitHub-specific configuration files for this repository.
 
+> **📖 For project documentation, see the [main README](../README.md)**
+
 ## 📁 Structure
 
 ```
@@ -127,4 +129,4 @@ GitHub-specific configuration files for this repository.
 
 ---
 
-**Questions?** Open an issue or discussion!
+**For project setup and usage, see the [main README](../README.md)**
