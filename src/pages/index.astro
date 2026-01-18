@@ -1,11 +1,16 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { Button } from "@/components/ui/button";
+import { ThemeToggle } from "@/components/ThemeToggle";
 ---
 
 <BaseLayout title="Welcome - Astro + React">
   <div class="min-h-screen bg-linear-to-b from-background to-muted">
-    <div class="container mx-auto px-4 py-16">
+    <div class="container mx-auto px-4 py-8">
+      <div class="flex justify-end mb-8">
+        <ThemeToggle client:load />
+      </div>
+
       <div class="max-w-4xl mx-auto text-center space-y-8">
         <h1 class="text-5xl font-bold tracking-tight">
           Welcome to Astro + React
