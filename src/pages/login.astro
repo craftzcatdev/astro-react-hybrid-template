@@ -1,0 +1,13 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { LoginForm } from "../components/LoginForm";
+---
+
+<BaseLayout title="Login">
+  <div class="min-h-screen grid place-items-center bg-muted/50">
+    <div class="w-full max-w-md p-8 border rounded-lg bg-card shadow-lg">
+      <h2 class="text-2xl font-bold mb-6 text-center">Login to Dashboard</h2>
+      <LoginForm client:load />
+    </div>
+  </div>
+</BaseLayout>
